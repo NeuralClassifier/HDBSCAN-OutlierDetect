@@ -1,1 +1,1 @@
-# OutlierDetect
+# CMPUT605: OutlierDetect
